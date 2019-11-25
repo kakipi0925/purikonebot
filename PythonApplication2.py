@@ -2,7 +2,7 @@
 import discord
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NjM3NzQ4ODQzNDUwMjA0MjEx.Xdwnvg.c5jwu3xPaAqI5akjBaCwoIkhAj8'
+TOKEN = 'NjM3NzQ4ODQzNDUwMjA0MjEx.Xdwotg.EB0mCmJRfg3slCMm_OqbbN3r_Qc'
 
 #予約格納
 YOYAKU_1 = []
