@@ -1,8 +1,8 @@
-# インストールした discord.py を読み込む
+﻿# インストールした discord.py を読み込む
 import discord
 
 # 自分のBotのアクセストークンに置き換えてください
-TOKEN = 'NjM3NzQ4ODQzNDUwMjA0MjEx.Xdwotg.EB0mCmJRfg3slCMm_OqbbN3r_Qc'
+TOKEN = 'NjM3NzQ4ODQzNDUwMjA0MjEx.Xdwp5A.HUnf1uVXFIxdCs4dOk2ajhFG0xc'
 
 #予約格納
 YOYAKU_1 = []
